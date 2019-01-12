@@ -1,0 +1,1 @@
+A simple HTML/CSS landing page with a fullscreen image in the background and little bit of flexbox styling.
